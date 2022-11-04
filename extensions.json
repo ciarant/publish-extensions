@@ -162,6 +162,9 @@
     "location": "packages/argdown-vscode",
     "prepublish": "cd packages/argdown-vscode && yarn install"
   },
+  "ciarant.vscode-structurizr":{
+    "repository": "https://github.com/ciarant/vscode-structurizr"
+  },
   "ckolkman.vscode-postgres": {
     "repository": "https://github.com/Borvik/vscode-postgres"
   },
